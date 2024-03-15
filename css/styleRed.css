@@ -1,0 +1,32 @@
+body {
+  background: url("../img/backgrounRed.jpg");
+  background-attachment: fixed; /*nos sirbe para que el fondo no se mueva cuando hagamos scroll*/
+}
+
+#Top-bar {
+  background-color:#a71817;
+}
+
+#menu li:hover {
+  color: white;
+}
+
+#tituloPost{
+    color:black;
+}
+.buttom-more a{
+  background-color: rgb(220, 33, 33);
+  color: white;
+}
+.buttom-more a:hover{
+  color: black;
+}
+
+form input[type="submit"] {
+  background-color:  rgb(220, 33, 33);
+  color:white;
+}
+
+form input[type="submit"]:hover {
+  color:black;
+}

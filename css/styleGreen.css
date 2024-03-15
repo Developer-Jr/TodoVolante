@@ -1,0 +1,32 @@
+body {
+  background: url("../img/backgroundGreen.jpg");
+  background-attachment: fixed; /*nos sirbe para que el fondo no se mueva cuando hagamos scroll*/
+}
+
+#Top-bar {
+  background-color: #17a749;
+}
+
+#menu li:hover {
+  color: black;
+}
+
+#tituloPost {
+  color: black;
+}
+.buttom-more a {
+  background-color: #17a749;
+  color: white;
+}
+.buttom-more a:hover {
+  color: black;
+}
+
+form input[type="submit"] {
+  background-color: #17a749;
+  color: white;
+}
+
+form input[type="submit"]:hover {
+  color: black;
+}

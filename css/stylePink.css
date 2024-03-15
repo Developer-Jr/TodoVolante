@@ -1,0 +1,33 @@
+
+body{
+    background: url('../img/backgroundPink.jpg');
+    background-attachment: fixed; /*nos sirbe para que el fondo no se mueva cuando hagamos scroll*/
+}
+#Top-bar {
+    background-color:#F3CCF3;
+  }
+
+  
+  #menu li:hover {
+    color: black;
+  }
+  
+  #tituloPost{
+      color:black;
+  }
+  .buttom-more a{
+    background-color: #E9A8F2;
+    color: white;
+  }
+  .buttom-more a:hover{
+    color: black;
+  }
+  
+  form input[type="submit"] {
+    background-color: #E9A8F2;
+    color:white;
+  }
+
+  form input[type="submit"]:hover {
+    color:black;
+  }
